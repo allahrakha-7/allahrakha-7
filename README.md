@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, there I'm Allah Rakha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Allah Rakha</h1>
 <h3 align="center">A passionate Full Stack Engineer from Pakistan, specializing in building robust, scalable, and engaging applications from concept to deployment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allahrakha-7&label=Profile%20views&color=0e75b6&style=flat" alt="allahrakha-7" /> </p>
@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allahrakha-7" alt="allahrakha-7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/allahrakha_821" target="blank"><img src="https://img.shields.io/twitter/follow/allahrakha_821?logo=twitter&style=for-the-badge" alt="allahrakha_821" /></a> </p>
-
-- 🌱 I’m currently building **a real-time chat application, focusing on low-latency communication and a seamless user experience.**
 
 - 📚 I’m currently learning **advanced software architecture patterns and system design principles to build more scalable and resilient applications.**
 

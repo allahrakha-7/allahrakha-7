@@ -45,4 +45,8 @@ const allahrakha = {
 </p>
 
 <h1>🏅 Achievements:</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allahrakha-7" alt="allahrakha-7" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=allahrakha-7" alt="allahrakha-7" />
+  </a>
+</div>

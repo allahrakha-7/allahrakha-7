@@ -36,9 +36,4 @@ const allahrakha = {
 <h1>📊 Stats:</h1>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allahrakha-7&" alt="allahrakha-7" /></p>
 
-<h1>🏅 Achievements:</h1>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=allahrakha-7" alt="allahrakha-7" />
-  </a>
 </div>

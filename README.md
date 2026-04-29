@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Allah Rakha</h1>
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Allah Rakha👨‍💻</h1>
   <h3>Full Stack Engineer | MERN & Next.js Specialist | Mobile Dev</h3>
   <p><i>Specializing in building robust, scalable, and engaging applications from concept to deployment.</i></p>
 

@@ -13,8 +13,8 @@
 ```javascript
 const allahrakha = {
     location: "Pakistan 🇵🇰",
-    currentFocus: ["Next.js Microservices", "Advanced UI/UX"],
-    portfolio: "[https://allahrakhadevcom.vercel.app](https://allahrakhadevcom.vercel.app)",
+    currentFocus: ["MERN, Microservices", "AI Engineering"],
+    portfolio: "[https://allahrakhadevcom.vercel.app] - (https://www.linkedin.com/in/allahrakha7)",
     openToWork: true,
     passion: ["Scalable Architecture", "Clean Code", "Innovation"],
     motto: "Empowering Pakistan Globally through Digital Excellence 💻✨"

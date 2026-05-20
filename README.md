@@ -66,9 +66,3 @@ const allahrakha = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
-
-<h1 align="left">📊 GitHub Stats:</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allahrakha-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Allah Rakha's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allahrakha-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
